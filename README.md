@@ -33,6 +33,8 @@ A text validation is performed on the text field to make sure that the input is 
 
 STEP 2: ADD EDGE
 
+![image](https://user-images.githubusercontent.com/21295042/28241950-8e25f1ae-696d-11e7-89d1-656eb284544d.png)
+
 Add the start and end vertices in the Text Field. Input validation takes care that the number entered is a valid vertex number 
 
 
