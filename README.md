@@ -14,6 +14,11 @@ Java Swing is used to build the application. Java Forms are used to generate the
 
 ## Code Overview ##
 
+The code is saved in the src folder
+
+Graph : Consists of the algorithm to detect a cycle 
+NewJFrame.FORM : Consists of the input form in the UI 
+NewJFrame.java : Consists of the Swing Application 
 
 ## How to Execute ? ##
 Your computer must have Java installed. Just open the jar file, and play with it as mentioned above 
