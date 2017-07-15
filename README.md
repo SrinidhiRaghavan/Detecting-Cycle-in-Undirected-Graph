@@ -26,6 +26,7 @@ There are three buttons: Create New Graph, Add Edge and Find Cycle. The Panel to
 
 STEP 1: CREATE A GRAPH
 
+![image](https://user-images.githubusercontent.com/21295042/28241488-89dcae76-6963-11e7-8b72-8846d511b7b0.png)
 
 Mention the number of vertices (𝑛) in the graph in the Text Box in-front it. On Clicking the button, A graph with vertices numbered from 0 to 𝑛 − 1 is created
 A text validation is performed on the text field to make sure that the input is always a non-negative integer
