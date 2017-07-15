@@ -40,3 +40,5 @@ Add the start and end vertices in the Text Field. Input validation takes care th
 
 STEP 3: ENTER THE CYCLE LENGTH
 
+![image](https://user-images.githubusercontent.com/21295042/28241960-c0c05d70-696d-11e7-8ff5-d4d7be3f20bd.png)
+
