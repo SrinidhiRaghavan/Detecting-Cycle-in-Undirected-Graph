@@ -21,7 +21,7 @@ Your computer must have Java installed. Just open the jar file, and play with it
 ## Working of the UI ##
 There are three buttons: Create New Graph, Add Edge and Find Cycle. The Panel to the right gives the log for the current graph. The Panel down gives general messages 
 
-![image](https://user-images.githubusercontent.com/21295042/28241475-3f9a0192-6963-11e7-8105-5ddbee61d3cb.png)
+![image](https://user-images.githubusercontent.com/21295042/28241982-1befe24c-696e-11e7-84a2-45dc25d44c16.png)
 
 
 STEP 1: CREATE A GRAPH
